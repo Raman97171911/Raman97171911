@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:185FA5&height=170&section=header&text=Raman%20Kumar%20Shakya&fontSize=40&fontColor=FFFFFF&desc=Linux%20%7C%20DevOps%20%7C%20Networking%20%7C%20Security&descAlignY=72&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A5F,100:185FA5&height=140&section=header&text=Raman%20Kumar%20Shakya&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Linux%20%7C%20DevOps%20%7C%20Networking%20%7C%20Security&descSize=17&descAlignY=72" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=185FA5&center=true&vCenter=true&width=620&lines=On+the+road+to+RHCA+%F0%9F%8E%AF;Automating+Linux+with+Ansible+%26+Python;Building+101+CCNA+labs+in+EVE-NG;Firewalls+%C2%B7+CCNP+%C2%B7+Cybersecurity" alt="Typing SVG"/>
 
@@ -117,6 +117,6 @@ I'm a **Linux & Network Engineer** who learns by building. My home lab runs on *
 
 **"Learn it. Lab it. Share it."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1E3A5F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:1E3A5F&height=6&section=footer" width="100%"/>
 
 </div>
